@@ -1,0 +1,27 @@
+{
+  "name": "jblog-cli",
+  "version": "0.0.1",
+  "description": "Out of the box, easy to build a blog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jie1ong/jblog-cli.git"
+  },
+  "keywords": [
+    "blog-cli",
+    "blog",
+    "react",
+    "lighter",
+    "simple",
+    "beautiful"
+  ],
+  "author": "jielong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jie1ong/jblog-cli/issues"
+  },
+  "homepage": "https://github.com/jie1ong/jblog-cli#readme"
+}
